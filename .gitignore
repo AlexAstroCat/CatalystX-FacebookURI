@@ -4,7 +4,6 @@ t/pp_*.t
 !.shipit
 .*.sw*
 Makefile*
-!Makefile.PL
 *blib
 META.yml
 inc/
@@ -19,3 +18,5 @@ pm_to_blib*
 .lwpcookies
 CatalystX-FacebookURI-*
 cover_db
+.shipit
+MANIFEST.bak

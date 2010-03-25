@@ -68,6 +68,8 @@ Please report any bugs or feature requests to C<bug-catalystx-facebookuri at rt.
 the web interface at L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=CatalystX-FacebookURI>.  I will be notified, and then you'll
 automatically be notified of progress on your bug as I make changes.
 
+This project is available via Git at http://github.com/NachoMan/CatalystX-FacebookURI
+
 
 =head1 SUPPORT
 
