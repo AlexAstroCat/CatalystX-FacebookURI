@@ -3,7 +3,7 @@ use Moose::Role;
 use URI::http;
 requires 'facebook';
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 NAME
 
@@ -11,7 +11,7 @@ CatalystX::FacebookURI - Automatically compose uri_for URIs to be within your Fa
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =head1 SYNOPSIS
 
@@ -99,10 +99,6 @@ L<http://cpanratings.perl.org/d/CatalystX-FacebookURI>
 L<http://search.cpan.org/dist/CatalystX-FacebookURI/>
 
 =back
-
-
-=head1 ACKNOWLEDGEMENTS
-
 
 =head1 COPYRIGHT & LICENSE
 

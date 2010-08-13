@@ -3,7 +3,6 @@ t/pp_*.t
 !.gitignore
 !.shipit
 .*.sw*
-Makefile*
 *blib
 META.yml
 inc/
@@ -11,8 +10,6 @@ MANIFEST
 blib*
 Makefile
 Makefile.old
-Build
-_build*
 pm_to_blib*
 *.tar.gz
 .lwpcookies
